@@ -36,6 +36,27 @@ UI should be as simple and efficient as possible, with a perfect combination of 
 - Create a pattern in design - be consistent with design, language and layout
 - Use colour, texture and typography to your advantage - use them to draw attention to specifc content, create hierarchy and increase readability
 
+## UX Pyramid
+
+### Level 1: Functional
+- Works as programmed
+
+### Level 2: Reliable
+- Is available and accurate
+
+### Level 3: Usable
+- Can be used without difficulty
+
+### Level 4: Convenient
+- Super eay to use, works like I think
+
+### Level 5: Pleasurable
+- A memorable experience worth sharing
+
+### Level 6: Meaningful
+- Has personal significance
+
 ## References
 - [Introduction to UX Design Process](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/introduction-to-ux-design-process/)
 - [Introduction to UI Design](https://medium.com/slacktime/introduction-to-ui-design-8b54cd355a7b)
+- [An Introduction to User Experience Design](https://medium.com/beakerandflint/an-introduction-user-experience-design-2a7f8167bf03)
